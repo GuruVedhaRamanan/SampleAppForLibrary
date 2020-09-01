@@ -1,0 +1,3 @@
+include ':oAuthUtil'
+include ':app'
+rootProject.name = "SampleLibrary"
